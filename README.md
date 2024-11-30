@@ -25,7 +25,7 @@ I'm a passionate student diving into the world of programming and technology. He
 ---
 
 ### 📫 How to Reach Me  
-- Email: [your-email@example.com]  
+- Email: [mdshahriaalam2@gmail.com]  
 - LinkedIn: [your-linkedin-profile](https://www.linkedin.com)  
 
 ---
