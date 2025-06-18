@@ -27,6 +27,8 @@ I'm a passionate student diving into the world of programming and technology. He
 ### 📫 How to Reach Me  
 - Email: [mdshahriaalam2@gmail.com]  
 - LinkedIn: [Md_Shahria_Alam](https://www.linkedin.com/in/mdshahriaalam2)
+- Coursera: [Md Shahria Alam] (https://www.coursera.org/learner/md-shahria-alam)
+- Portfoilo: [Md Shahria Alam] (https://mdshahriaalam-portfolio.netlify.app/)
   
 
 ---
