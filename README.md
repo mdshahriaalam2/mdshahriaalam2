@@ -40,7 +40,6 @@ class MdShahriaAlam:
         self.name = "Md Shahria Alam"
         self.role = "Network Engineer & Developer"
         self.location = "Cumilla, Bangladesh 🇧🇩"
-        self.education = "Bachelor's (Hons) - Computer Science"
         self.language_spoken = ["Bengali", "English", "Hindi", "Urdu"]
         
     def current_focus(self):
