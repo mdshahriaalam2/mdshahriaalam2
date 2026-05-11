@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/mdshahriaalam2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mdshahriaalam-portfolio.netlify.app/">
+  <a href="http://mdshahriaalam.ct.ws/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.coursera.org/learner/md-shahria-alam">
