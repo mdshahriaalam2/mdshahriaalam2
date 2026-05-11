@@ -183,7 +183,7 @@ I believe in **learning by doing** and love to share knowledge through open-sour
     <td align="center" width="50%">
       <h4>💼 Portfolio Website</h4>
       <p>Personal portfolio showcasing projects, skills, and experience with modern design</p>
-      <a href="https://mdshahriaalam-portfolio.netlify.app/">
+      <a href="http://mdshahriaalam.ct.ws/">
         <img src="https://img.shields.io/badge/Visit_Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
@@ -325,7 +325,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 <a href="https://www.linkedin.com/in/mdshahriaalam2">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://mdshahriaalam-portfolio.netlify.app/">
+<a href="http://mdshahriaalam.ct.ws/">
   <img src="https://img.shields.io/badge/Visit_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -385,6 +385,6 @@ Other         ██░░░░░░░░░░░░░░░░░░░   
 
 **🤝 Open to collaboration and networking opportunities**
 
-*Last Updated: December 2024*
+*Last Updated: December 2026*
 
 </div>
